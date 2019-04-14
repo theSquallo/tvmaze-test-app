@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.pagination,
+.form-inline {
+  margin-left: auto;
+  margin-right: 0;
+  margin-top: auto;
+}
+
+.card {
+  margin-top: 5px;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card-body {
+  padding: 0.25rem;
+  font-style: bold;
+  color: rgb(46, 34, 34);
+}
+
+.card-text {
+  margin-bottom: 0;
+  font-size: 75%;
+  text-align: left;
+  margin-left: 4px;
+}
+
+.modal-title {
+  text-align: center;
+}
